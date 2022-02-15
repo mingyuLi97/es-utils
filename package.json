@@ -8,7 +8,7 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "test": "jest --bail --findRelatedTests",
+    "test": "jest --bail --findRelatedTests --detectOpenHandles",
     "new": "node ./scripts/create.js"
   },
   "devDependencies": {

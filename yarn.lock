@@ -3005,17 +3005,9 @@ pretty-format@^27.0.0, pretty-format@^27.4.6:
     ansi-styles "^5.0.0"
     react-is "^17.0.1"
 
-prompts@^2.0.1:
+prompts@^2.0.1, prompts@^2.4.2:
   version "2.4.2"
   resolved "https://registry.npmmirror.com/prompts/download/prompts-2.4.2.tgz#7b57e73b3a48029ad10ebd44f74b01722a4cb069"
-  integrity sha1-e1fnOzpIAprRDr1E90sBcipMsGk=
-  dependencies:
-    kleur "^3.0.3"
-    sisteransi "^1.0.5"
-
-prompts@^2.4.2:
-  version "2.4.2"
-  resolved "https://registry.npmmirror.com/prompts/download/prompts-2.4.2.tgz?cache=0&sync_timestamp=1633642460453&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2Fprompts%2Fdownload%2Fprompts-2.4.2.tgz#7b57e73b3a48029ad10ebd44f74b01722a4cb069"
   integrity sha1-e1fnOzpIAprRDr1E90sBcipMsGk=
   dependencies:
     kleur "^3.0.3"
